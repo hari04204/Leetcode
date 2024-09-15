@@ -1,33 +1,33 @@
 class Solution {
     public int islandPerimeter(int[][] grid) {
-        int totalPerimeter=0;
-        for(int row=0;row<grid.length;row++){
-             for(int col=0;col<grid[row].length;col++){
-
-                if(grid[row][col]==1){
-                    int x=4;
-
-                    // if land is present on left side decrease by 1
-                    if(col-1>=0 && grid[row][col-1]==1){
-                            x--;
-                    }
-                     // if land is present on right side decrease by 1
-                     if(col+1<grid[row].length && grid[row][col+1]==1){
-                            x--;
-                    }
-                     // if land is present above decrease by 1
-                    if(row-1>=0 && grid[row-1][col]==1){
-                        x--;
-                    }
-                     // if land is present down decrease by 1
-                     if(row+1<grid.length && grid[row+1][col]==1){
-                        x--;
-                    }
-
-                    totalPerimeter=totalPerimeter+x;
-                }
-             }
+        //check right
+        int m = grid.length;
+        int n = grid[0].length;
+        int per = 0;
+        for(int i = 0; i<m; i++){
+            for(int j = 0; j<n; j++){
+                int x = grid[i][j];
+                
+                if(x==1){
+                    if(j == 0) per++;
+                    else if(grid[i][j-1] == 0) per++;
+                    if(j == n-1) per++;
+                    else if(grid[i][j+1] == 0) per++;
+                    //check left
+                    
+                    //check right
+                    //check top
+                    if(i == 0) per++;
+                    else if(grid[i-1][j] == 0) per++;
+                    if(i == m-1) per++;
+                    else if(grid[i+1][j] == 0) per++;
+                } 
+                //check left
+                //check top
+                //check bottom
+            }
         }
-        return totalPerimeter;
+        return per;
+
     }
 }
