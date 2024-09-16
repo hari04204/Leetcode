@@ -19,7 +19,6 @@ class Solution {
                 } 
             }
         }
-        System.out.println(Arrays.toString(flowerbed));
         return count <=0;
     }
 }
