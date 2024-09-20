@@ -11,7 +11,7 @@ class Solution {
                 return i;
             }
             lsum += nums[i];
-            System.out.println(lsum +" "+ nums[i] + " " + (sum-lsum-nums[i]));
+            
         }
 
         return -1;
