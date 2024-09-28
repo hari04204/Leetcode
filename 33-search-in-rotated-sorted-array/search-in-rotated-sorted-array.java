@@ -1,28 +1,22 @@
 class Solution {
     public int search(int[] nums, int target) {
-        int left = 0;
-        int right = nums.length - 1;
-
-        while (left <= right) {
-            int mid = (left + right) / 2;
-
-            if (nums[mid] == target) {
-                return mid;
-            } else if (nums[mid] >= nums[left]) {
-                if (nums[left] <= target && target <= nums[mid]) {
-                    right = mid - 1;
-                } else {
-                    left = mid + 1;
-                }
-            } else {
-                if (nums[mid] <= target && target <= nums[right]) {
-                    left = mid + 1;
-                } else {
-                    right = mid - 1;
-                }
+        return searchRotatedArr(nums,0,nums.length-1,target);     
+    }
+    public static int searchRotatedArr(int[] nums, int s, int e, int target){
+        if(s>e) return -1;
+        int m = (e+s)/2;
+        if(nums[m]==target) return m;
+        if(nums[m]>=nums[s]){
+            if(target >= nums[s] && target<=nums[m]){
+                return searchRotatedArr(nums,s,m-1,target);
+            }
+            else{
+                return searchRotatedArr(nums, m+1, e, target);
             }
         }
-
-        return -1;        
+        else if(target>=nums[m] && target<=nums[e]){
+            return searchRotatedArr(nums, m+1, e, target);
+        }
+        else return searchRotatedArr(nums, s, m-1, target);
     }
 }
