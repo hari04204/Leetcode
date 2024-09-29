@@ -14,14 +14,12 @@ class Solution {
         } 
         for(int i=n-1;i>b;i--){
             if(nums[i]>nums[b]){
-                System.out.println(nums[i]);
                 int temp = nums[i];
                 nums[i]=nums[b];
                 nums[b]=temp;
                 break;
             }
         }
-        System.out.println(b);
         reverse(nums,b+1,nums.length-1);
     }
     public void reverse(int[] nums,int i,int j){
