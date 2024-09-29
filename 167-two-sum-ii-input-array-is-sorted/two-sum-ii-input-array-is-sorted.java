@@ -9,6 +9,9 @@ class Solution {
                     res[1] = j+1;
                     return res;
                 }
+                if(numbers[i]+numbers[j]>target){
+                    break;
+                }
                 j++;
             }
         }
