@@ -9,10 +9,12 @@ https://leetcode.com/hari04204/
 | [0001-two-sum](https://github.com/hari04204/Leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/hari04204/Leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/hari04204/Leetcode/tree/master/0283-move-zeroes) |
+| [1256-rank-transform-of-an-array](https://github.com/hari04204/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hari04204/Leetcode/tree/master/0001-two-sum) |
+| [1256-rank-transform-of-an-array](https://github.com/hari04204/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,4 +23,8 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hari04204/Leetcode/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [1256-rank-transform-of-an-array](https://github.com/hari04204/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
