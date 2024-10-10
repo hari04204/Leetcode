@@ -53,4 +53,8 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/hari04204/Leetcode/tree/master/0948-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [2619-categorize-box-according-to-criteria](https://github.com/hari04204/Leetcode/tree/master/2619-categorize-box-according-to-criteria) |
 <!---LeetCode Topics End-->
