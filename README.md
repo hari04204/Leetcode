@@ -9,6 +9,7 @@ https://leetcode.com/hari04204/
 | [0001-two-sum](https://github.com/hari04204/Leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/hari04204/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/hari04204/Leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hari04204/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/hari04204/Leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hari04204/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0948-sort-an-array](https://github.com/hari04204/Leetcode/tree/master/0948-sort-an-array) |
@@ -62,6 +63,7 @@ https://leetcode.com/hari04204/
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hari04204/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2619-categorize-box-according-to-criteria](https://github.com/hari04204/Leetcode/tree/master/2619-categorize-box-according-to-criteria) |
 ## String
 |  |
@@ -71,4 +73,8 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hari04204/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hari04204/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
