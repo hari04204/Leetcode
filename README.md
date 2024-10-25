@@ -7,6 +7,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hari04204/Leetcode/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/hari04204/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/hari04204/Leetcode/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/hari04204/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/hari04204/Leetcode/tree/master/0136-single-number) |
@@ -89,6 +90,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hari04204/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/hari04204/Leetcode/tree/master/0046-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
