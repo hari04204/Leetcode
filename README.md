@@ -19,6 +19,7 @@ https://leetcode.com/hari04204/
 | [1256-rank-transform-of-an-array](https://github.com/hari04204/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/hari04204/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hari04204/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2586-longest-square-streak-in-an-array](https://github.com/hari04204/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hari04204/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ https://leetcode.com/hari04204/
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hari04204/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/hari04204/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/hari04204/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [2586-longest-square-streak-in-an-array](https://github.com/hari04204/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +46,7 @@ https://leetcode.com/hari04204/
 | ------- |
 | [0948-sort-an-array](https://github.com/hari04204/Leetcode/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/hari04204/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/hari04204/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -99,6 +102,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hari04204/Leetcode/tree/master/0053-maximum-subarray) |
+| [2586-longest-square-streak-in-an-array](https://github.com/hari04204/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hari04204/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Linked List
 |  |
@@ -128,6 +132,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [1646-kth-missing-positive-number](https://github.com/hari04204/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2586-longest-square-streak-in-an-array](https://github.com/hari04204/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Simulation
 |  |
 | ------- |
