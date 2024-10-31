@@ -14,6 +14,7 @@ https://leetcode.com/hari04204/
 | [0128-longest-consecutive-sequence](https://github.com/hari04204/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/hari04204/Leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hari04204/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/hari04204/Leetcode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/hari04204/Leetcode/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hari04204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hari04204/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -91,6 +92,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hari04204/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/hari04204/Leetcode/tree/master/0200-number-of-islands) |
 ## Stack
 |  |
 | ------- |
@@ -130,6 +132,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/hari04204/Leetcode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -146,6 +149,7 @@ https://leetcode.com/hari04204/
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/hari04204/Leetcode/tree/master/0200-number-of-islands) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hari04204/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Greedy
 |  |
@@ -155,4 +159,8 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hari04204/Leetcode/tree/master/0042-trapping-rain-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/hari04204/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
