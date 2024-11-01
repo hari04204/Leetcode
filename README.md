@@ -87,6 +87,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hari04204/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0678-valid-parenthesis-string](https://github.com/hari04204/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1297-maximum-number-of-balloons](https://github.com/hari04204/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Union Find
 |  |
@@ -99,6 +100,7 @@ https://leetcode.com/hari04204/
 | [0042-trapping-rain-water](https://github.com/hari04204/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hari04204/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0678-valid-parenthesis-string](https://github.com/hari04204/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -110,6 +112,7 @@ https://leetcode.com/hari04204/
 | [0042-trapping-rain-water](https://github.com/hari04204/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hari04204/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/hari04204/Leetcode/tree/master/0053-maximum-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/hari04204/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hari04204/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hari04204/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Linked List
@@ -158,6 +161,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/hari04204/Leetcode/tree/master/0045-jump-game-ii) |
+| [0678-valid-parenthesis-string](https://github.com/hari04204/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
