@@ -90,6 +90,7 @@ https://leetcode.com/hari04204/
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hari04204/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/hari04204/Leetcode/tree/master/0079-word-search) |
 | [0678-valid-parenthesis-string](https://github.com/hari04204/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0812-rotate-string](https://github.com/hari04204/Leetcode/tree/master/0812-rotate-string) |
 | [1297-maximum-number-of-balloons](https://github.com/hari04204/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hari04204/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/hari04204/Leetcode/tree/master/2580-circular-sentence) |
@@ -180,4 +181,8 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/hari04204/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/hari04204/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
