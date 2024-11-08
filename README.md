@@ -22,6 +22,7 @@ https://leetcode.com/hari04204/
 | [0948-sort-an-array](https://github.com/hari04204/Leetcode/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/hari04204/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/hari04204/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1940-maximum-xor-for-each-query](https://github.com/hari04204/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hari04204/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hari04204/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hari04204/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -48,6 +49,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hari04204/Leetcode/tree/master/0136-single-number) |
+| [1940-maximum-xor-for-each-query](https://github.com/hari04204/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hari04204/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Sorting
 |  |
@@ -189,4 +191,8 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/hari04204/Leetcode/tree/master/0812-rotate-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/hari04204/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 <!---LeetCode Topics End-->
