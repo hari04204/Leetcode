@@ -28,6 +28,7 @@ https://leetcode.com/hari04204/
 | [1940-maximum-xor-for-each-query](https://github.com/hari04204/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hari04204/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hari04204/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/hari04204/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hari04204/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hari04204/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hari04204/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -210,5 +211,6 @@ https://leetcode.com/hari04204/
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hari04204/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/hari04204/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [2358-number-of-ways-to-split-array](https://github.com/hari04204/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hari04204/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
