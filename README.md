@@ -27,6 +27,7 @@ https://leetcode.com/hari04204/
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/hari04204/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1646-kth-missing-positive-number](https://github.com/hari04204/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/hari04204/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/hari04204/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1940-maximum-xor-for-each-query](https://github.com/hari04204/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2145-grid-game](https://github.com/hari04204/Leetcode/tree/master/2145-grid-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hari04204/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -141,6 +142,7 @@ https://leetcode.com/hari04204/
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hari04204/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/hari04204/Leetcode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/hari04204/Leetcode/tree/master/0079-word-search) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/hari04204/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
