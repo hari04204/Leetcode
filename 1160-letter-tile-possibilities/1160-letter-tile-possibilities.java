@@ -1,6 +1,6 @@
 class Solution {
     public int numTilePossibilities(String tiles) {
-        int[] freq = new int[26];  // Frequency array
+        int[] freq = new int[26];
         for (char c : tiles.toCharArray()) {
             freq[c - 'A']++;
         }
@@ -11,10 +11,10 @@ class Solution {
         int count = 0;
         for (int i = 0; i < 26; i++) {
             if (freq[i] > 0) {
-                count++;  // Count the current sequence
-                freq[i]--;  // Use this tile
-                count += backtrack(freq);  // Recurse for the next tile
-                freq[i]++;  // Backtrack and restore frequency
+                count++;
+                freq[i]--;
+                count += backtrack(freq);
+                freq[i]++;
             }
         }
         return count;
