@@ -52,6 +52,7 @@ https://leetcode.com/hari04204/
 | [1297-maximum-number-of-balloons](https://github.com/hari04204/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hari04204/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hari04204/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2427-first-letter-to-appear-twice](https://github.com/hari04204/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hari04204/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/hari04204/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Two Pointers
@@ -68,6 +69,7 @@ https://leetcode.com/hari04204/
 | [1940-maximum-xor-for-each-query](https://github.com/hari04204/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hari04204/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hari04204/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2427-first-letter-to-appear-twice](https://github.com/hari04204/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +105,7 @@ https://leetcode.com/hari04204/
 | [1160-letter-tile-possibilities](https://github.com/hari04204/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1297-maximum-number-of-balloons](https://github.com/hari04204/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hari04204/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2427-first-letter-to-appear-twice](https://github.com/hari04204/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -125,6 +128,7 @@ https://leetcode.com/hari04204/
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hari04204/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/hari04204/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hari04204/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2427-first-letter-to-appear-twice](https://github.com/hari04204/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/hari04204/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2580-circular-sentence](https://github.com/hari04204/Leetcode/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hari04204/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
