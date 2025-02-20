@@ -29,6 +29,7 @@ https://leetcode.com/hari04204/
 | [1646-kth-missing-positive-number](https://github.com/hari04204/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/hari04204/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/hari04204/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1833-find-the-highest-altitude](https://github.com/hari04204/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/hari04204/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2107-find-unique-binary-string](https://github.com/hari04204/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/hari04204/Leetcode/tree/master/2145-grid-game) |
@@ -259,6 +260,7 @@ https://leetcode.com/hari04204/
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/hari04204/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hari04204/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1833-find-the-highest-altitude](https://github.com/hari04204/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/hari04204/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hari04204/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/hari04204/Leetcode/tree/master/2145-grid-game) |
