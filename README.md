@@ -195,6 +195,7 @@ https://leetcode.com/hari04204/
 | [0094-binary-tree-inorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/hari04204/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/hari04204/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -202,12 +203,14 @@ https://leetcode.com/hari04204/
 | [0098-validate-binary-search-tree](https://github.com/hari04204/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/hari04204/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/hari04204/Leetcode/tree/master/0200-number-of-islands) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/hari04204/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/hari04204/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -242,6 +245,7 @@ https://leetcode.com/hari04204/
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/hari04204/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/hari04204/Leetcode/tree/master/0200-number-of-islands) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
