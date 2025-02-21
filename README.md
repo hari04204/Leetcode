@@ -54,6 +54,7 @@ https://leetcode.com/hari04204/
 | [1160-letter-tile-possibilities](https://github.com/hari04204/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/hari04204/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/hari04204/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hari04204/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/hari04204/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hari04204/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -186,6 +187,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/hari04204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hari04204/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Randomized
 |  |
@@ -197,6 +199,7 @@ https://leetcode.com/hari04204/
 | [0094-binary-tree-inorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/hari04204/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/hari04204/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -205,6 +208,7 @@ https://leetcode.com/hari04204/
 | [0098-validate-binary-search-tree](https://github.com/hari04204/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/hari04204/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/hari04204/Leetcode/tree/master/0200-number-of-islands) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -212,6 +216,7 @@ https://leetcode.com/hari04204/
 | [0094-binary-tree-inorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/hari04204/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/hari04204/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search
 |  |
@@ -247,6 +252,7 @@ https://leetcode.com/hari04204/
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/hari04204/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/hari04204/Leetcode/tree/master/0200-number-of-islands) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
