@@ -31,6 +31,7 @@ https://leetcode.com/hari04204/
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/hari04204/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/hari04204/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/hari04204/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/hari04204/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1940-maximum-xor-for-each-query](https://github.com/hari04204/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2107-find-unique-binary-string](https://github.com/hari04204/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/hari04204/Leetcode/tree/master/2145-grid-game) |
@@ -181,6 +182,7 @@ https://leetcode.com/hari04204/
 | [0678-valid-parenthesis-string](https://github.com/hari04204/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/hari04204/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/hari04204/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/hari04204/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2562-count-ways-to-build-good-strings](https://github.com/hari04204/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hari04204/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hari04204/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
