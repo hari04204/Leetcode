@@ -44,6 +44,7 @@ https://leetcode.com/hari04204/
 | [2616-maximal-score-after-applying-k-operations](https://github.com/hari04204/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/hari04204/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hari04204/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hari04204/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hari04204/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hari04204/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Hash Table
@@ -67,6 +68,7 @@ https://leetcode.com/hari04204/
 | [2427-first-letter-to-appear-twice](https://github.com/hari04204/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hari04204/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/hari04204/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hari04204/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +76,7 @@ https://leetcode.com/hari04204/
 | [0042-trapping-rain-water](https://github.com/hari04204/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/hari04204/Leetcode/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hari04204/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hari04204/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Bit Manipulation
 |  |
 | ------- |
