@@ -132,6 +132,7 @@ https://leetcode.com/hari04204/
 | [0380-insert-delete-getrandom-o1](https://github.com/hari04204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hari04204/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2619-categorize-box-according-to-criteria](https://github.com/hari04204/Leetcode/tree/master/2619-categorize-box-according-to-criteria) |
+| [2649-count-total-number-of-colored-cells](https://github.com/hari04204/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 ## String
 |  |
 | ------- |
