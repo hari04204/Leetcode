@@ -44,6 +44,7 @@ https://leetcode.com/hari04204/
 | [2586-longest-square-streak-in-an-array](https://github.com/hari04204/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hari04204/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/hari04204/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2665-minimum-time-to-repair-cars](https://github.com/hari04204/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/hari04204/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/hari04204/Leetcode/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hari04204/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -256,6 +257,7 @@ https://leetcode.com/hari04204/
 | [1646-kth-missing-positive-number](https://github.com/hari04204/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hari04204/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hari04204/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/hari04204/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/hari04204/Leetcode/tree/master/2690-house-robber-iv) |
 ## Simulation
 |  |
