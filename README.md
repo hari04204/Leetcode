@@ -41,6 +41,7 @@ https://leetcode.com/hari04204/
 | [2308-divide-array-into-equal-pairs](https://github.com/hari04204/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hari04204/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/hari04204/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2478-longest-nice-subarray](https://github.com/hari04204/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/hari04204/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hari04204/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hari04204/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -95,6 +96,7 @@ https://leetcode.com/hari04204/
 | [2308-divide-array-into-equal-pairs](https://github.com/hari04204/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hari04204/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/hari04204/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2478-longest-nice-subarray](https://github.com/hari04204/Leetcode/tree/master/2478-longest-nice-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -328,4 +330,8 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/hari04204/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+## Sliding Window
+|  |
+| ------- |
+| [2478-longest-nice-subarray](https://github.com/hari04204/Leetcode/tree/master/2478-longest-nice-subarray) |
 <!---LeetCode Topics End-->
