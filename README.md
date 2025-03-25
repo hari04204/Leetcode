@@ -54,6 +54,7 @@ https://leetcode.com/hari04204/
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hari04204/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/hari04204/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hari04204/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3430-count-days-without-meetings](https://github.com/hari04204/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ https://leetcode.com/hari04204/
 | [0948-sort-an-array](https://github.com/hari04204/Leetcode/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/hari04204/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hari04204/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [3430-count-days-without-meetings](https://github.com/hari04204/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Divide and Conquer
 |  |
 | ------- |
