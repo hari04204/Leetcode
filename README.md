@@ -37,6 +37,7 @@ https://leetcode.com/hari04204/
 | [2107-find-unique-binary-string](https://github.com/hari04204/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/hari04204/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/hari04204/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2262-solving-questions-with-brainpower](https://github.com/hari04204/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/hari04204/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hari04204/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hari04204/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -217,6 +218,7 @@ https://leetcode.com/hari04204/
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/hari04204/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/hari04204/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hari04204/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/hari04204/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/hari04204/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hari04204/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hari04204/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
