@@ -71,6 +71,7 @@ https://leetcode.com/hari04204/
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/hari04204/Leetcode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/hari04204/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hari04204/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/hari04204/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/hari04204/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -245,6 +246,7 @@ https://leetcode.com/hari04204/
 | [0199-binary-tree-right-side-view](https://github.com/hari04204/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/hari04204/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hari04204/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/hari04204/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -256,6 +258,7 @@ https://leetcode.com/hari04204/
 | [0199-binary-tree-right-side-view](https://github.com/hari04204/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/hari04204/Leetcode/tree/master/0200-number-of-islands) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/hari04204/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hari04204/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/hari04204/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -268,6 +271,7 @@ https://leetcode.com/hari04204/
 | [0199-binary-tree-right-side-view](https://github.com/hari04204/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/hari04204/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hari04204/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search
@@ -310,6 +314,7 @@ https://leetcode.com/hari04204/
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/hari04204/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/hari04204/Leetcode/tree/master/0200-number-of-islands) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hari04204/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/hari04204/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
