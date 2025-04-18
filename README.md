@@ -66,6 +66,7 @@ https://leetcode.com/hari04204/
 | [0001-two-sum](https://github.com/hari04204/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hari04204/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/hari04204/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/hari04204/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hari04204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hari04204/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/hari04204/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -90,6 +91,7 @@ https://leetcode.com/hari04204/
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hari04204/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/hari04204/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0160-intersection-of-two-linked-lists](https://github.com/hari04204/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/hari04204/Leetcode/tree/master/0283-move-zeroes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/hari04204/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hari04204/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -229,6 +231,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hari04204/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/hari04204/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Design
 |  |
 | ------- |
