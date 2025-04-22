@@ -44,6 +44,7 @@ https://leetcode.com/hari04204/
 | [2308-divide-array-into-equal-pairs](https://github.com/hari04204/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hari04204/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/hari04204/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/hari04204/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2478-longest-nice-subarray](https://github.com/hari04204/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/hari04204/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hari04204/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -82,6 +83,7 @@ https://leetcode.com/hari04204/
 | [2308-divide-array-into-equal-pairs](https://github.com/hari04204/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hari04204/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/hari04204/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2428-equal-row-and-column-pairs](https://github.com/hari04204/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hari04204/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/hari04204/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hari04204/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -291,6 +293,7 @@ https://leetcode.com/hari04204/
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/hari04204/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hari04204/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2428-equal-row-and-column-pairs](https://github.com/hari04204/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hari04204/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Matrix
 |  |
@@ -299,6 +302,7 @@ https://leetcode.com/hari04204/
 | [0200-number-of-islands](https://github.com/hari04204/Leetcode/tree/master/0200-number-of-islands) |
 | [2145-grid-game](https://github.com/hari04204/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/hari04204/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2428-equal-row-and-column-pairs](https://github.com/hari04204/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/hari04204/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hari04204/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/hari04204/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
