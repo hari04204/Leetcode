@@ -156,6 +156,7 @@ https://leetcode.com/hari04204/
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hari04204/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hari04204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1260-day-of-the-year](https://github.com/hari04204/Leetcode/tree/master/1260-day-of-the-year) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hari04204/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/hari04204/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/hari04204/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -174,6 +175,7 @@ https://leetcode.com/hari04204/
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/hari04204/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/hari04204/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/hari04204/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1260-day-of-the-year](https://github.com/hari04204/Leetcode/tree/master/1260-day-of-the-year) |
 | [1297-maximum-number-of-balloons](https://github.com/hari04204/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hari04204/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/hari04204/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
