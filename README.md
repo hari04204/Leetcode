@@ -11,6 +11,7 @@ https://leetcode.com/hari04204/
 | [0045-jump-game-ii](https://github.com/hari04204/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/hari04204/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/hari04204/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/hari04204/Leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/hari04204/Leetcode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/hari04204/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/hari04204/Leetcode/tree/master/0136-single-number) |
@@ -154,6 +155,7 @@ https://leetcode.com/hari04204/
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/hari04204/Leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hari04204/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hari04204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1260-day-of-the-year](https://github.com/hari04204/Leetcode/tree/master/1260-day-of-the-year) |
