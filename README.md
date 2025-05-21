@@ -179,6 +179,7 @@ https://leetcode.com/hari04204/
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hari04204/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hari04204/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/hari04204/Leetcode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/hari04204/Leetcode/tree/master/0079-word-search) |
 | [0678-valid-parenthesis-string](https://github.com/hari04204/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/hari04204/Leetcode/tree/master/0812-rotate-string) |
@@ -208,6 +209,7 @@ https://leetcode.com/hari04204/
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hari04204/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hari04204/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hari04204/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
