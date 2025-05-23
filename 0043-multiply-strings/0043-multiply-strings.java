@@ -1,5 +1,6 @@
 class Solution {
     public String multiply(String num1, String num2) {
+        if("0".equals(num1) || "0".equals(num2)) return "0";
         int m = num1.length();
         int n = num2.length();
         int[] ans = new int[m+n];
