@@ -165,6 +165,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/hari04204/Leetcode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/hari04204/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/hari04204/Leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hari04204/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/hari04204/Leetcode/tree/master/0204-count-primes) |
@@ -399,6 +400,7 @@ https://leetcode.com/hari04204/
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/hari04204/Leetcode/tree/master/0050-powx-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hari04204/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
