@@ -25,7 +25,6 @@ class Solution {
             i--;
         }
         r = i;
-        System.out.println(l+" "+r);
         return r-l+1;
     }
 }
