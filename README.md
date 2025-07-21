@@ -241,6 +241,7 @@ https://leetcode.com/hari04204/
 | [2580-circular-sentence](https://github.com/hari04204/Leetcode/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hari04204/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3379-score-of-a-string](https://github.com/hari04204/Leetcode/tree/master/3379-score-of-a-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/hari04204/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Union Find
 |  |
 | ------- |
