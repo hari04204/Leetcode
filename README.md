@@ -242,6 +242,7 @@ https://leetcode.com/hari04204/
 | [2691-count-vowel-strings-in-ranges](https://github.com/hari04204/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3379-score-of-a-string](https://github.com/hari04204/Leetcode/tree/master/3379-score-of-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/hari04204/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/hari04204/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -287,6 +288,7 @@ https://leetcode.com/hari04204/
 | [2562-count-ways-to-build-good-strings](https://github.com/hari04204/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hari04204/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hari04204/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3618-find-the-original-typed-string-ii](https://github.com/hari04204/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -417,6 +419,7 @@ https://leetcode.com/hari04204/
 | [2145-grid-game](https://github.com/hari04204/Leetcode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/hari04204/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hari04204/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3618-find-the-original-typed-string-ii](https://github.com/hari04204/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Data Stream
 |  |
 | ------- |
