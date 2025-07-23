@@ -295,10 +295,12 @@ https://leetcode.com/hari04204/
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hari04204/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hari04204/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0838-design-linked-list](https://github.com/hari04204/Leetcode/tree/master/0838-design-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/hari04204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0838-design-linked-list](https://github.com/hari04204/Leetcode/tree/master/0838-design-linked-list) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hari04204/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Randomized
