@@ -2,7 +2,6 @@ class Solution {
     public int[][] constructProductMatrix(int[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
-        int[][] ans = new int[m][n];
         int[] pre = new int[m * n];
         int[] suf = new int[m * n];
         int[] flat = new int[m * n];
@@ -24,10 +23,10 @@ class Solution {
         idx = 0;
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                ans[i][j] = (int)(((long) pre[idx] * suf[idx]) % MOD);
+                grid[i][j] = (int)(((long) pre[idx] * suf[idx]) % MOD);
                 idx++;
             }
         }
-        return ans;
+        return grid;
     }
 }
