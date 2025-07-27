@@ -16,19 +16,19 @@
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> ans = new ArrayList<>();
-        List<TreeNode> lst = new ArrayList<>();
-        lst.add(root);
-        while(!lst.isEmpty()){
+        if(root==null) return ans;
+        Queue<TreeNode> q = new LinkedList<>();
+        q.add(root);
+        while(!q.isEmpty()){
             List<Integer> arr = new ArrayList<>();
-            List<TreeNode> lst2 = new ArrayList<>();
-            for(TreeNode node: lst){
-                if(node==null) continue;
+            int n = q.size();
+            for(int i  = 0; i<n; i++){
+                TreeNode node = q.poll();
                 arr.add(node.val);
-                lst2.add(node.left);
-                lst2.add(node.right);
+                if(node.left!=null)q.add(node.left);
+                if(node.right!=null)q.add(node.right);
             }
-            lst = lst2;
-            if(!arr.isEmpty())ans.add(arr);
+            ans.add(arr);
         }
         return ans;
     }
