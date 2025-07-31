@@ -24,6 +24,7 @@ https://leetcode.com/hari04204/
 | [0229-majority-element-ii](https://github.com/hari04204/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/hari04204/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/hari04204/Leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/hari04204/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/hari04204/Leetcode/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hari04204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hari04204/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -284,6 +285,7 @@ https://leetcode.com/hari04204/
 | [0042-trapping-rain-water](https://github.com/hari04204/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hari04204/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/hari04204/Leetcode/tree/master/0053-maximum-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/hari04204/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/hari04204/Leetcode/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/hari04204/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/hari04204/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -362,6 +364,7 @@ https://leetcode.com/hari04204/
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/hari04204/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0456-132-pattern](https://github.com/hari04204/Leetcode/tree/master/0456-132-pattern) |
 | [1646-kth-missing-positive-number](https://github.com/hari04204/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hari04204/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
