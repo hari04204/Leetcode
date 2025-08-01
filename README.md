@@ -14,6 +14,7 @@ https://leetcode.com/hari04204/
 | [0053-maximum-subarray](https://github.com/hari04204/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/hari04204/Leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/hari04204/Leetcode/tree/master/0079-word-search) |
+| [0118-pascals-triangle](https://github.com/hari04204/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hari04204/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/hari04204/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/hari04204/Leetcode/tree/master/0134-gas-station) |
@@ -289,6 +290,7 @@ https://leetcode.com/hari04204/
 | [0042-trapping-rain-water](https://github.com/hari04204/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hari04204/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/hari04204/Leetcode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/hari04204/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hari04204/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/hari04204/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/hari04204/Leetcode/tree/master/0322-coin-change) |
