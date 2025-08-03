@@ -61,6 +61,7 @@ https://leetcode.com/hari04204/
 | [2107-find-unique-binary-string](https://github.com/hari04204/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/hari04204/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/hari04204/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hari04204/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2262-solving-questions-with-brainpower](https://github.com/hari04204/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/hari04204/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hari04204/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -377,6 +378,7 @@ https://leetcode.com/hari04204/
 | [0300-longest-increasing-subsequence](https://github.com/hari04204/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0456-132-pattern](https://github.com/hari04204/Leetcode/tree/master/0456-132-pattern) |
 | [1646-kth-missing-positive-number](https://github.com/hari04204/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hari04204/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hari04204/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hari04204/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/hari04204/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -458,6 +460,7 @@ https://leetcode.com/hari04204/
 | [1940-maximum-xor-for-each-query](https://github.com/hari04204/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hari04204/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/hari04204/Leetcode/tree/master/2145-grid-game) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hari04204/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2358-number-of-ways-to-split-array](https://github.com/hari04204/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hari04204/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3031-construct-product-matrix](https://github.com/hari04204/Leetcode/tree/master/3031-construct-product-matrix) |
@@ -480,6 +483,7 @@ https://leetcode.com/hari04204/
 ## Sliding Window
 |  |
 | ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hari04204/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2478-longest-nice-subarray](https://github.com/hari04204/Leetcode/tree/master/2478-longest-nice-subarray) |
 ## Topological Sort
 |  |
