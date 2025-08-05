@@ -4,12 +4,12 @@ class Solution {
         for(int i = 0; i<fruits.length; i++){
             for(int j = 0; j<baskets.length; j++){
                 if(baskets[j]>=fruits[i]){
+                    count++;
                     baskets[j] = 0;
                     break;
                 }
-                if(j==baskets.length-1) count++;
             }
         }
-        return count;
+        return fruits.length-count;
     }
 }
