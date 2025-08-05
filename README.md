@@ -217,6 +217,7 @@ https://leetcode.com/hari04204/
 | [0043-multiply-strings](https://github.com/hari04204/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/hari04204/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/hari04204/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/hari04204/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hari04204/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/hari04204/Leetcode/tree/master/0204-count-primes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hari04204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -299,6 +300,7 @@ https://leetcode.com/hari04204/
 | [0042-trapping-rain-water](https://github.com/hari04204/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hari04204/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/hari04204/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/hari04204/Leetcode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/hari04204/Leetcode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/hari04204/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hari04204/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -537,4 +539,8 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/hari04204/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hari04204/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
