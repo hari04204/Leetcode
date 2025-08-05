@@ -90,6 +90,7 @@ https://leetcode.com/hari04204/
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hari04204/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3430-count-days-without-meetings](https://github.com/hari04204/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/hari04204/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3790-fruits-into-baskets-ii](https://github.com/hari04204/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -388,6 +389,7 @@ https://leetcode.com/hari04204/
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hari04204/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/hari04204/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/hari04204/Leetcode/tree/master/2690-house-robber-iv) |
+| [3790-fruits-into-baskets-ii](https://github.com/hari04204/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -398,6 +400,7 @@ https://leetcode.com/hari04204/
 | [2271-rearrange-array-elements-by-sign](https://github.com/hari04204/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2428-equal-row-and-column-pairs](https://github.com/hari04204/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hari04204/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/hari04204/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -521,6 +524,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/hari04204/Leetcode/tree/master/0456-132-pattern) |
+| [3790-fruits-into-baskets-ii](https://github.com/hari04204/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Database
 |  |
 | ------- |
@@ -529,4 +533,8 @@ https://leetcode.com/hari04204/
 | [1258-article-views-i](https://github.com/hari04204/Leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/hari04204/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/hari04204/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/hari04204/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
