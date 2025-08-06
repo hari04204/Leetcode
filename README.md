@@ -7,6 +7,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hari04204/Leetcode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/hari04204/Leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/hari04204/Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/hari04204/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hari04204/Leetcode/tree/master/0045-jump-game-ii) |
@@ -131,6 +132,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hari04204/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/hari04204/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/hari04204/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hari04204/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/hari04204/Leetcode/tree/master/0283-move-zeroes) |
