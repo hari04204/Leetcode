@@ -145,6 +145,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hari04204/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/hari04204/Leetcode/tree/master/0231-power-of-two) |
 | [1940-maximum-xor-for-each-query](https://github.com/hari04204/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hari04204/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hari04204/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -223,6 +224,7 @@ https://leetcode.com/hari04204/
 | [0070-climbing-stairs](https://github.com/hari04204/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hari04204/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/hari04204/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/hari04204/Leetcode/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hari04204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1260-day-of-the-year](https://github.com/hari04204/Leetcode/tree/master/1260-day-of-the-year) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hari04204/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -513,6 +515,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/hari04204/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/hari04204/Leetcode/tree/master/0231-power-of-two) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hari04204/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
