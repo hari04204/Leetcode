@@ -52,6 +52,7 @@ https://leetcode.com/hari04204/
 | [1171-shortest-path-in-binary-matrix](https://github.com/hari04204/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/hari04204/Leetcode/tree/master/1242-matrix-block-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/hari04204/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1342-queens-that-can-attack-the-king](https://github.com/hari04204/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hari04204/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1428-jump-game-iii](https://github.com/hari04204/Leetcode/tree/master/1428-jump-game-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hari04204/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -417,6 +418,7 @@ https://leetcode.com/hari04204/
 | ------- |
 | [0043-multiply-strings](https://github.com/hari04204/Leetcode/tree/master/0043-multiply-strings) |
 | [0498-diagonal-traverse](https://github.com/hari04204/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1342-queens-that-can-attack-the-king](https://github.com/hari04204/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hari04204/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/hari04204/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hari04204/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -433,6 +435,7 @@ https://leetcode.com/hari04204/
 | [0967-minimum-falling-path-sum](https://github.com/hari04204/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hari04204/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/hari04204/Leetcode/tree/master/1242-matrix-block-sum) |
+| [1342-queens-that-can-attack-the-king](https://github.com/hari04204/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/hari04204/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2145-grid-game](https://github.com/hari04204/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/hari04204/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
