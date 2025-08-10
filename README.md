@@ -68,6 +68,7 @@ https://leetcode.com/hari04204/
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/hari04204/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1940-maximum-xor-for-each-query](https://github.com/hari04204/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hari04204/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/hari04204/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2107-find-unique-binary-string](https://github.com/hari04204/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/hari04204/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/hari04204/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -432,6 +433,7 @@ https://leetcode.com/hari04204/
 | [0967-minimum-falling-path-sum](https://github.com/hari04204/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hari04204/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/hari04204/Leetcode/tree/master/1242-matrix-block-sum) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/hari04204/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2145-grid-game](https://github.com/hari04204/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/hari04204/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/hari04204/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -472,6 +474,7 @@ https://leetcode.com/hari04204/
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1428-jump-game-iii](https://github.com/hari04204/Leetcode/tree/master/1428-jump-game-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/hari04204/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/hari04204/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/hari04204/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Search Tree
