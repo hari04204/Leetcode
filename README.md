@@ -236,6 +236,7 @@ https://leetcode.com/hari04204/
 | [0150-evaluate-reverse-polish-notation](https://github.com/hari04204/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/hari04204/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/hari04204/Leetcode/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/hari04204/Leetcode/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hari04204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1260-day-of-the-year](https://github.com/hari04204/Leetcode/tree/master/1260-day-of-the-year) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hari04204/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -324,6 +325,7 @@ https://leetcode.com/hari04204/
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hari04204/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/hari04204/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/hari04204/Leetcode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/hari04204/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/hari04204/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/hari04204/Leetcode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/hari04204/Leetcode/tree/master/0403-frog-jump) |
@@ -474,6 +476,7 @@ https://leetcode.com/hari04204/
 | [0102-binary-tree-level-order-traversal](https://github.com/hari04204/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/hari04204/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/hari04204/Leetcode/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/hari04204/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/hari04204/Leetcode/tree/master/0322-coin-change) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hari04204/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hari04204/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
