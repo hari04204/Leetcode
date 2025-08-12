@@ -195,6 +195,7 @@ https://leetcode.com/hari04204/
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/hari04204/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/hari04204/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/hari04204/Leetcode/tree/master/0948-sort-an-array) |
+| [1304-longest-happy-string](https://github.com/hari04204/Leetcode/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/hari04204/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hari04204/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Merge Sort
@@ -268,6 +269,7 @@ https://leetcode.com/hari04204/
 | [1260-day-of-the-year](https://github.com/hari04204/Leetcode/tree/master/1260-day-of-the-year) |
 | [1297-maximum-number-of-balloons](https://github.com/hari04204/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hari04204/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1304-longest-happy-string](https://github.com/hari04204/Leetcode/tree/master/1304-longest-happy-string) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/hari04204/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hari04204/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/hari04204/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -458,6 +460,7 @@ https://leetcode.com/hari04204/
 | [0135-candy](https://github.com/hari04204/Leetcode/tree/master/0135-candy) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hari04204/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/hari04204/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1304-longest-happy-string](https://github.com/hari04204/Leetcode/tree/master/1304-longest-happy-string) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/hari04204/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hari04204/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/hari04204/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
