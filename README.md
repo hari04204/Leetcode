@@ -238,6 +238,7 @@ https://leetcode.com/hari04204/
 | [0204-count-primes](https://github.com/hari04204/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/hari04204/Leetcode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/hari04204/Leetcode/tree/master/0279-perfect-squares) |
+| [0326-power-of-three](https://github.com/hari04204/Leetcode/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hari04204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1260-day-of-the-year](https://github.com/hari04204/Leetcode/tree/master/1260-day-of-the-year) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hari04204/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -547,6 +548,7 @@ https://leetcode.com/hari04204/
 | ------- |
 | [0050-powx-n](https://github.com/hari04204/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/hari04204/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/hari04204/Leetcode/tree/master/0326-power-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hari04204/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
