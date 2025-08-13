@@ -345,6 +345,7 @@ https://leetcode.com/hari04204/
 | [2562-count-ways-to-build-good-strings](https://github.com/hari04204/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hari04204/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hari04204/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/hari04204/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3618-find-the-original-typed-string-ii](https://github.com/hari04204/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Linked List
 |  |
@@ -490,6 +491,7 @@ https://leetcode.com/hari04204/
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/hari04204/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/hari04204/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/hari04204/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/hari04204/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -583,6 +585,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/hari04204/Leetcode/tree/master/0070-climbing-stairs) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/hari04204/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Combinatorics
 |  |
 | ------- |
