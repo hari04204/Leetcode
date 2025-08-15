@@ -256,6 +256,7 @@ https://leetcode.com/hari04204/
 | [0005-longest-palindromic-substring](https://github.com/hari04204/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hari04204/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/hari04204/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/hari04204/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/hari04204/Leetcode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/hari04204/Leetcode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/hari04204/Leetcode/tree/master/0097-interleaving-string) |
@@ -293,6 +294,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hari04204/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/hari04204/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hari04204/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -318,6 +320,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hari04204/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/hari04204/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hari04204/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hari04204/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/hari04204/Leetcode/tree/master/0053-maximum-subarray) |
