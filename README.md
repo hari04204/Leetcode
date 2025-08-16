@@ -50,6 +50,7 @@ https://leetcode.com/hari04204/
 | [0948-sort-an-array](https://github.com/hari04204/Leetcode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/hari04204/Leetcode/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/hari04204/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1073-number-of-enclaves](https://github.com/hari04204/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hari04204/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/hari04204/Leetcode/tree/master/1242-matrix-block-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/hari04204/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -289,6 +290,7 @@ https://leetcode.com/hari04204/
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hari04204/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/hari04204/Leetcode/tree/master/0200-number-of-islands) |
+| [1073-number-of-enclaves](https://github.com/hari04204/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/hari04204/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Stack
 |  |
@@ -393,6 +395,7 @@ https://leetcode.com/hari04204/
 | [0145-binary-tree-postorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/hari04204/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/hari04204/Leetcode/tree/master/0200-number-of-islands) |
+| [1073-number-of-enclaves](https://github.com/hari04204/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/hari04204/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hari04204/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -447,6 +450,7 @@ https://leetcode.com/hari04204/
 | [0200-number-of-islands](https://github.com/hari04204/Leetcode/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/hari04204/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0967-minimum-falling-path-sum](https://github.com/hari04204/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1073-number-of-enclaves](https://github.com/hari04204/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hari04204/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/hari04204/Leetcode/tree/master/1242-matrix-block-sum) |
 | [1342-queens-that-can-attack-the-king](https://github.com/hari04204/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
@@ -488,6 +492,7 @@ https://leetcode.com/hari04204/
 | [0200-number-of-islands](https://github.com/hari04204/Leetcode/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/hari04204/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/hari04204/Leetcode/tree/master/0322-coin-change) |
+| [1073-number-of-enclaves](https://github.com/hari04204/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hari04204/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hari04204/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
