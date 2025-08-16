@@ -8,13 +8,13 @@ class Solution {
             if(grid[i][0]==1) dfs(grid,i,0);
             if(grid[i][grid[0].length-1]==1) dfs(grid,i,grid[0].length-1);
         }
-        int count = 0;
-        for(int i = 0; i<grid.length; i++){
-            for(int j = 0; j<grid[0].length; j++){
-                if(grid[i][j]==1)count++;
+        int ans = 0;
+        for(var ele : grid) {
+            for(var e : ele) {
+                if(e>0)ans++;
             }
         }
-        return count;
+        return ans;
     }
     public void dfs(int[][] grid, int i, int j){
         if(i<0 || j<0 || i>=grid.length || j>=grid[0].length || grid[i][j]!=1) return;
