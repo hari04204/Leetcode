@@ -18,6 +18,6 @@ class Solution {
             }
         }
         lst.add(curr);
-        return lst.toArray(new int[lst.size()][2]);
+        return lst.toArray(new int[lst.size()][]);
     }
 }
