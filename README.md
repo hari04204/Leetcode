@@ -13,6 +13,7 @@ https://leetcode.com/hari04204/
 | [0045-jump-game-ii](https://github.com/hari04204/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/hari04204/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/hari04204/Leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/hari04204/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/hari04204/Leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/hari04204/Leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/hari04204/Leetcode/tree/master/0118-pascals-triangle) |
@@ -167,6 +168,7 @@ https://leetcode.com/hari04204/
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/hari04204/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/hari04204/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hari04204/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hari04204/Leetcode/tree/master/0229-majority-element-ii) |
