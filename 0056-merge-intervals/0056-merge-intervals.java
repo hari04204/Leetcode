@@ -1,9 +1,6 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> {
-            if(a[0]==b[0]) return a[1]-b[1];
-            else return a[0]-b[0];
-        });
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> a[0]-b[0]);
         for(int[] i : intervals){
             pq.add(i);
         }
