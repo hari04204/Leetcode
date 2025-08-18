@@ -1,6 +1,5 @@
 class Solution {
     public int smallestRangeII(int[] nums, int k) {
-        if(nums.length==1) return 0;
         Arrays.sort(nums);
         int res = nums[nums.length-1]-nums[0];
         for(int i = 0; i<nums.length-1; i++){
