@@ -49,6 +49,7 @@ https://leetcode.com/hari04204/
 | [0906-walking-robot-simulation](https://github.com/hari04204/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/hari04204/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0946-smallest-range-ii](https://github.com/hari04204/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/hari04204/Leetcode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/hari04204/Leetcode/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/hari04204/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -176,6 +177,7 @@ https://leetcode.com/hari04204/
 | [0229-majority-element-ii](https://github.com/hari04204/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/hari04204/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hari04204/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0946-smallest-range-ii](https://github.com/hari04204/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/hari04204/Leetcode/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/hari04204/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hari04204/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -247,6 +249,7 @@ https://leetcode.com/hari04204/
 | [0279-perfect-squares](https://github.com/hari04204/Leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/hari04204/Leetcode/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hari04204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0946-smallest-range-ii](https://github.com/hari04204/Leetcode/tree/master/0946-smallest-range-ii) |
 | [1260-day-of-the-year](https://github.com/hari04204/Leetcode/tree/master/1260-day-of-the-year) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hari04204/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/hari04204/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -482,6 +485,7 @@ https://leetcode.com/hari04204/
 | [0135-candy](https://github.com/hari04204/Leetcode/tree/master/0135-candy) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hari04204/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/hari04204/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0946-smallest-range-ii](https://github.com/hari04204/Leetcode/tree/master/0946-smallest-range-ii) |
 | [1304-longest-happy-string](https://github.com/hari04204/Leetcode/tree/master/1304-longest-happy-string) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/hari04204/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hari04204/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
