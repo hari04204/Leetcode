@@ -10,10 +10,7 @@ class Solution:
     def preorder(self, root: 'Node') -> List[int]:
         if not root:
             return []
-        stk, res = [root],[]
-        while stk:
-            node = stk.pop()
-            res.append(node.val)
-            if node.children:
-                stk.extend(reversed(node.children))
+        res = [root.val]
+        for child in root.children:
+            res.extend(self.preorder(child))
         return res
