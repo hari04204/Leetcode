@@ -318,6 +318,7 @@ https://leetcode.com/hari04204/
 | [0456-132-pattern](https://github.com/hari04204/Leetcode/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hari04204/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/hari04204/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/hari04204/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Backtracking
 |  |
@@ -397,6 +398,7 @@ https://leetcode.com/hari04204/
 | [0144-binary-tree-preorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/hari04204/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/hari04204/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hari04204/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -413,6 +415,7 @@ https://leetcode.com/hari04204/
 | [0145-binary-tree-postorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/hari04204/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/hari04204/Leetcode/tree/master/0200-number-of-islands) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/hari04204/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/hari04204/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hari04204/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
