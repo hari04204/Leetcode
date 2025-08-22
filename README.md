@@ -39,6 +39,7 @@ https://leetcode.com/hari04204/
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/hari04204/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hari04204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/hari04204/Leetcode/tree/master/0403-frog-jump) |
+| [0436-find-right-interval](https://github.com/hari04204/Leetcode/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hari04204/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/hari04204/Leetcode/tree/master/0456-132-pattern) |
 | [0498-diagonal-traverse](https://github.com/hari04204/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -175,6 +176,7 @@ https://leetcode.com/hari04204/
 | [0169-majority-element](https://github.com/hari04204/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hari04204/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hari04204/Leetcode/tree/master/0229-majority-element-ii) |
+| [0436-find-right-interval](https://github.com/hari04204/Leetcode/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/hari04204/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hari04204/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0946-smallest-range-ii](https://github.com/hari04204/Leetcode/tree/master/0946-smallest-range-ii) |
@@ -445,6 +447,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/hari04204/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0436-find-right-interval](https://github.com/hari04204/Leetcode/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/hari04204/Leetcode/tree/master/0456-132-pattern) |
 | [1646-kth-missing-positive-number](https://github.com/hari04204/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hari04204/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
