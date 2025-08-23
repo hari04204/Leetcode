@@ -60,6 +60,7 @@ https://leetcode.com/hari04204/
 | [1256-rank-transform-of-an-array](https://github.com/hari04204/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1342-queens-that-can-attack-the-king](https://github.com/hari04204/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hari04204/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hari04204/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1428-jump-game-iii](https://github.com/hari04204/Leetcode/tree/master/1428-jump-game-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hari04204/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/hari04204/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -449,6 +450,7 @@ https://leetcode.com/hari04204/
 | [0300-longest-increasing-subsequence](https://github.com/hari04204/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0436-find-right-interval](https://github.com/hari04204/Leetcode/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/hari04204/Leetcode/tree/master/0456-132-pattern) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hari04204/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/hari04204/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hari04204/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hari04204/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
