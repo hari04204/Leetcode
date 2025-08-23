@@ -158,6 +158,7 @@ https://leetcode.com/hari04204/
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hari04204/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/hari04204/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hari04204/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/hari04204/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hari04204/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Bit Manipulation
 |  |
@@ -295,6 +296,7 @@ https://leetcode.com/hari04204/
 | [2107-find-unique-binary-string](https://github.com/hari04204/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/hari04204/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/hari04204/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/hari04204/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2580-circular-sentence](https://github.com/hari04204/Leetcode/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hari04204/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3379-score-of-a-string](https://github.com/hari04204/Leetcode/tree/master/3379-score-of-a-string) |
@@ -508,6 +510,7 @@ https://leetcode.com/hari04204/
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hari04204/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/hari04204/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/hari04204/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/hari04204/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/hari04204/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2689-rearranging-fruits](https://github.com/hari04204/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Monotonic Stack
