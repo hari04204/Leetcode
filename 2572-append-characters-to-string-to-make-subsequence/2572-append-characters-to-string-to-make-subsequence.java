@@ -1,14 +1,15 @@
 class Solution {
     public int appendCharacters(String s, String t) {
+        int n1 = s.length();
+        int n2 = t.length();
         int i = 0;
         int j = 0;
-        while(i<s.length() && j<t.length()){
+        while(i<n1 && j<n2){
             if(s.charAt(i)==t.charAt(j)){
-                i++;
                 j++;
             }
-            else i++;
+            i++;
         }
-        return (t.length()-j);
+        return (n2-j);
     }
 }
