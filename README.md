@@ -254,6 +254,7 @@ https://leetcode.com/hari04204/
 | [0380-insert-delete-getrandom-o1](https://github.com/hari04204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0946-smallest-range-ii](https://github.com/hari04204/Leetcode/tree/master/0946-smallest-range-ii) |
 | [1260-day-of-the-year](https://github.com/hari04204/Leetcode/tree/master/1260-day-of-the-year) |
+| [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/hari04204/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hari04204/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/hari04204/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hari04204/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -450,6 +451,7 @@ https://leetcode.com/hari04204/
 | [0300-longest-increasing-subsequence](https://github.com/hari04204/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0436-find-right-interval](https://github.com/hari04204/Leetcode/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/hari04204/Leetcode/tree/master/0456-132-pattern) |
+| [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/hari04204/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hari04204/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/hari04204/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hari04204/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
