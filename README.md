@@ -251,6 +251,7 @@ https://leetcode.com/hari04204/
 | [0062-unique-paths](https://github.com/hari04204/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/hari04204/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/hari04204/Leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/hari04204/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hari04204/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/hari04204/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/hari04204/Leetcode/tree/master/0231-power-of-two) |
@@ -356,6 +357,7 @@ https://leetcode.com/hari04204/
 | [0070-climbing-stairs](https://github.com/hari04204/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/hari04204/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/hari04204/Leetcode/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/hari04204/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/hari04204/Leetcode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/hari04204/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/hari04204/Leetcode/tree/master/0120-triangle) |
@@ -406,6 +408,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/hari04204/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/hari04204/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/hari04204/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/hari04204/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -444,6 +447,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/hari04204/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/hari04204/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/hari04204/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/hari04204/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -554,6 +558,7 @@ https://leetcode.com/hari04204/
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/hari04204/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/hari04204/Leetcode/tree/master/0098-validate-binary-search-tree) |
 ## String Matching
 |  |
