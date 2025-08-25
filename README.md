@@ -30,6 +30,7 @@ https://leetcode.com/hari04204/
 | [0204-count-primes](https://github.com/hari04204/Leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/hari04204/Leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/hari04204/Leetcode/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/hari04204/Leetcode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/hari04204/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/hari04204/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/hari04204/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -362,6 +363,7 @@ https://leetcode.com/hari04204/
 | [0124-binary-tree-maximum-path-sum](https://github.com/hari04204/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/hari04204/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/hari04204/Leetcode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/hari04204/Leetcode/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/hari04204/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/hari04204/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/hari04204/Leetcode/tree/master/0322-coin-change) |
@@ -489,6 +491,7 @@ https://leetcode.com/hari04204/
 | [0036-valid-sudoku](https://github.com/hari04204/Leetcode/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/hari04204/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/hari04204/Leetcode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/hari04204/Leetcode/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/hari04204/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0967-minimum-falling-path-sum](https://github.com/hari04204/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1073-number-of-enclaves](https://github.com/hari04204/Leetcode/tree/master/1073-number-of-enclaves) |
