@@ -63,6 +63,7 @@ https://leetcode.com/hari04204/
 | [1256-rank-transform-of-an-array](https://github.com/hari04204/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1342-queens-that-can-attack-the-king](https://github.com/hari04204/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hari04204/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/hari04204/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hari04204/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1428-jump-game-iii](https://github.com/hari04204/Leetcode/tree/master/1428-jump-game-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hari04204/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -378,6 +379,7 @@ https://leetcode.com/hari04204/
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/hari04204/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/hari04204/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/hari04204/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/hari04204/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/hari04204/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/hari04204/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hari04204/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -504,6 +506,7 @@ https://leetcode.com/hari04204/
 | [1171-shortest-path-in-binary-matrix](https://github.com/hari04204/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/hari04204/Leetcode/tree/master/1242-matrix-block-sum) |
 | [1342-queens-that-can-attack-the-king](https://github.com/hari04204/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/hari04204/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/hari04204/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2145-grid-game](https://github.com/hari04204/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/hari04204/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
