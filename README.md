@@ -258,6 +258,7 @@ https://leetcode.com/hari04204/
 | [0231-power-of-two](https://github.com/hari04204/Leetcode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/hari04204/Leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/hari04204/Leetcode/tree/master/0326-power-of-three) |
+| [0343-integer-break](https://github.com/hari04204/Leetcode/tree/master/0343-integer-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hari04204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0946-smallest-range-ii](https://github.com/hari04204/Leetcode/tree/master/0946-smallest-range-ii) |
 | [1260-day-of-the-year](https://github.com/hari04204/Leetcode/tree/master/1260-day-of-the-year) |
@@ -371,6 +372,7 @@ https://leetcode.com/hari04204/
 | [0279-perfect-squares](https://github.com/hari04204/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/hari04204/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/hari04204/Leetcode/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/hari04204/Leetcode/tree/master/0343-integer-break) |
 | [0403-frog-jump](https://github.com/hari04204/Leetcode/tree/master/0403-frog-jump) |
 | [0518-coin-change-ii](https://github.com/hari04204/Leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/hari04204/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
