@@ -441,6 +441,7 @@ https://leetcode.com/hari04204/
 | [0145-binary-tree-postorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/hari04204/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/hari04204/Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/hari04204/Leetcode/tree/master/0207-course-schedule) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/hari04204/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/hari04204/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -550,6 +551,7 @@ https://leetcode.com/hari04204/
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/hari04204/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/hari04204/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/hari04204/Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/hari04204/Leetcode/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/hari04204/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/hari04204/Leetcode/tree/master/0322-coin-change) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/hari04204/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -596,6 +598,7 @@ https://leetcode.com/hari04204/
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/hari04204/Leetcode/tree/master/0207-course-schedule) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hari04204/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/hari04204/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/hari04204/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -616,6 +619,7 @@ https://leetcode.com/hari04204/
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/hari04204/Leetcode/tree/master/0207-course-schedule) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hari04204/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
