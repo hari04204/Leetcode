@@ -18,11 +18,6 @@ class Solution {
             }
         }
         ans.add(new int[]{curStart, curEnd});
-        int[][] res = new int[ans.size()][2];
-        for(int i = 0; i<ans.size(); i++){
-            res[i][0] = ans.get(i)[0];
-            res[i][1] = ans.get(i)[1];
-        }
-        return res;
+        return ans.toArray(new int[ans.size()][]);
     }
 }
