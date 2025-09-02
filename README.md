@@ -7,6 +7,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hari04204/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/hari04204/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/hari04204/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/hari04204/Leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/hari04204/Leetcode/tree/master/0036-valid-sudoku) |
@@ -204,6 +205,7 @@ https://leetcode.com/hari04204/
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hari04204/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/hari04204/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/hari04204/Leetcode/tree/master/0169-majority-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -475,6 +477,7 @@ https://leetcode.com/hari04204/
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hari04204/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/hari04204/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0436-find-right-interval](https://github.com/hari04204/Leetcode/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/hari04204/Leetcode/tree/master/0456-132-pattern) |
