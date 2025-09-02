@@ -14,6 +14,7 @@ https://leetcode.com/hari04204/
 | [0042-trapping-rain-water](https://github.com/hari04204/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hari04204/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/hari04204/Leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/hari04204/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hari04204/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/hari04204/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/hari04204/Leetcode/tree/master/0066-plus-one) |
@@ -121,6 +122,7 @@ https://leetcode.com/hari04204/
 | [0003-longest-substring-without-repeating-characters](https://github.com/hari04204/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hari04204/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/hari04204/Leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/hari04204/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/hari04204/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hari04204/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/hari04204/Leetcode/tree/master/0169-majority-element) |
@@ -182,6 +184,7 @@ https://leetcode.com/hari04204/
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hari04204/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/hari04204/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/hari04204/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hari04204/Leetcode/tree/master/0217-contains-duplicate) |
@@ -287,6 +290,7 @@ https://leetcode.com/hari04204/
 | [0020-valid-parentheses](https://github.com/hari04204/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hari04204/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/hari04204/Leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/hari04204/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/hari04204/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/hari04204/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/hari04204/Leetcode/tree/master/0091-decode-ways) |
