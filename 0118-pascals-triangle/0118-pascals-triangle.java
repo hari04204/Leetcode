@@ -1,21 +1,32 @@
 class Solution {
     public List<List<Integer>> generate(int n) {
-        ArrayList<List<Integer>> ans = new ArrayList<List<Integer>>();
-        for(int i = 0; i < n; i++){
-            ans.add(new ArrayList<Integer>());
-            for(int j = 0;j<=i; j++){
-                if(j == 0){
-                    ans.get(i).add(1);
+        List<List<Integer>> ans = new ArrayList<>();
+        List<Integer> temp = new ArrayList<>();
+        temp.add(1);
+        ans.add(temp);
+        if(n==1) return ans;
+        temp = new ArrayList<>();
+        temp.add(1);
+        temp.add(1);
+        ans.add(temp);
+        if(n==2)return ans;
+        int x = 3;
+        while(x<=n){
+            temp = new ArrayList<>();
+            for(int i=0; i<x; i++){
+                if(i==0){
+                    temp.add(1);
                 }
-                else if(j == i){
-                    ans.get(i).add(1);
+                else if(i==x-1){
+                    temp.add(1);
                 }
                 else{
-                    ans.get(i).add(ans.get(i-1).get(j-1) + ans.get(i-1).get(j));
+                    temp.add(ans.get(ans.size()-1).get(i-1)+ans.get(ans.size()-1).get(i));
                 }
             }
+            ans.add(temp);
+            x++;
         }
-        
         return ans;
     }
 }
