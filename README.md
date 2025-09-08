@@ -443,6 +443,7 @@ https://leetcode.com/hari04204/
 | [0144-binary-tree-preorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/hari04204/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hari04204/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/hari04204/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -462,6 +463,7 @@ https://leetcode.com/hari04204/
 | [0199-binary-tree-right-side-view](https://github.com/hari04204/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/hari04204/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/hari04204/Leetcode/tree/master/0207-course-schedule) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hari04204/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/hari04204/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/hari04204/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -483,6 +485,7 @@ https://leetcode.com/hari04204/
 | [0144-binary-tree-preorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/hari04204/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hari04204/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/hari04204/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hari04204/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -593,6 +596,7 @@ https://leetcode.com/hari04204/
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/hari04204/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/hari04204/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hari04204/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
