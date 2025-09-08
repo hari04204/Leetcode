@@ -1,5 +1,5 @@
 class Solution {
-    public static boolean isValidSudoku(char[][] board) {
+    public boolean isValidSudoku(char[][] board) {
         boolean[] f1 = new boolean[10];
         for(int i = 0; i<9; i++){
             for(int j = 0; j<9; j++){
