@@ -17,6 +17,7 @@ https://leetcode.com/hari04204/
 | [0046-permutations](https://github.com/hari04204/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/hari04204/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hari04204/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/hari04204/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/hari04204/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/hari04204/Leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/hari04204/Leetcode/tree/master/0079-word-search) |
@@ -384,6 +385,7 @@ https://leetcode.com/hari04204/
 | [0042-trapping-rain-water](https://github.com/hari04204/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hari04204/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/hari04204/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/hari04204/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/hari04204/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/hari04204/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/hari04204/Leetcode/tree/master/0072-edit-distance) |
@@ -559,6 +561,7 @@ https://leetcode.com/hari04204/
 | ------- |
 | [0011-container-with-most-water](https://github.com/hari04204/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/hari04204/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/hari04204/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hari04204/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/hari04204/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/hari04204/Leetcode/tree/master/0135-candy) |
