@@ -11,6 +11,7 @@ https://leetcode.com/hari04204/
 | [0011-container-with-most-water](https://github.com/hari04204/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/hari04204/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/hari04204/Leetcode/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hari04204/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/hari04204/Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/hari04204/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hari04204/Leetcode/tree/master/0045-jump-game-ii) |
@@ -507,6 +508,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hari04204/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hari04204/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/hari04204/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0436-find-right-interval](https://github.com/hari04204/Leetcode/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/hari04204/Leetcode/tree/master/0456-132-pattern) |
