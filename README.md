@@ -137,6 +137,7 @@ https://leetcode.com/hari04204/
 | [0169-majority-element](https://github.com/hari04204/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hari04204/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hari04204/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/hari04204/Leetcode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/hari04204/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hari04204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/hari04204/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -201,6 +202,7 @@ https://leetcode.com/hari04204/
 | [0169-majority-element](https://github.com/hari04204/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hari04204/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hari04204/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/hari04204/Leetcode/tree/master/0242-valid-anagram) |
 | [0436-find-right-interval](https://github.com/hari04204/Leetcode/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/hari04204/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hari04204/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -311,6 +313,7 @@ https://leetcode.com/hari04204/
 | [0079-word-search](https://github.com/hari04204/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/hari04204/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/hari04204/Leetcode/tree/master/0097-interleaving-string) |
+| [0242-valid-anagram](https://github.com/hari04204/Leetcode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/hari04204/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0424-longest-repeating-character-replacement](https://github.com/hari04204/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/hari04204/Leetcode/tree/master/0451-sort-characters-by-frequency) |
