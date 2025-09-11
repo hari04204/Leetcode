@@ -1,32 +1,43 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-        ArrayList<Integer> list = new ArrayList<>();
-        int l = 0;
-        int t = 0;
-        int r = matrix[0].length;
-        int b = matrix.length;
+        List<Integer> ans = new ArrayList<>();
         int i = 0;
-        while(l<r&&t<b){
-            for(i=l;i<r;i++){
-                list.add(matrix[t][i]);
+        int j = 0;
+        int r = matrix[0].length;
+        int l = -1;
+        int t = -1;
+        int b = matrix.length;
+        int count = 0;
+        int total = b*r;
+        char dir='r';
+        while(count<total){
+            ans.add(matrix[i][j]);
+            count++;
+            if(dir=='r' && j+1==r){
+                dir='d';
+                i++;
+                t++;
             }
-            t++;
-            for(i=t;i<b;i++){
-                list.add(matrix[i][r-1]);
+            else if(dir=='d' && i+1==b){
+                dir='l';
+                j--;
+                r--;
             }
-            r--;
-            if(!(l<r&&t<b)){
-                break;
+            else if(dir=='l' && j-1==l){
+                dir='u';
+                i--;
+                b--;
             }
-            for(i=r-1;i>l-1;i--){
-                list.add(matrix[b-1][i]);
+            else if(dir=='u' && i-1==t){
+                dir='r';
+                j++;
+                l++;
             }
-            b--;
-            for(i=b-1;i>=t;i--){
-                list.add(matrix[i][l]);
-            }
-            l++;
+            else if(dir=='r') j++;
+            else if(dir=='d') i++;
+            else if(dir=='l') j--;
+            else if(dir=='u') i--;
         }
-        return list;
+        return ans;
     }
 }
