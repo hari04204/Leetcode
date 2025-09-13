@@ -51,6 +51,7 @@ https://leetcode.com/hari04204/
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/hari04204/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hari04204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/hari04204/Leetcode/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/hari04204/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/hari04204/Leetcode/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hari04204/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/hari04204/Leetcode/tree/master/0456-132-pattern) |
@@ -417,6 +418,7 @@ https://leetcode.com/hari04204/
 | [0322-coin-change](https://github.com/hari04204/Leetcode/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/hari04204/Leetcode/tree/master/0343-integer-break) |
 | [0403-frog-jump](https://github.com/hari04204/Leetcode/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/hari04204/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0518-coin-change-ii](https://github.com/hari04204/Leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/hari04204/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/hari04204/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -522,6 +524,7 @@ https://leetcode.com/hari04204/
 | [0004-median-of-two-sorted-arrays](https://github.com/hari04204/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hari04204/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/hari04204/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/hari04204/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/hari04204/Leetcode/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/hari04204/Leetcode/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/hari04204/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -581,6 +584,7 @@ https://leetcode.com/hari04204/
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hari04204/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/hari04204/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/hari04204/Leetcode/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/hari04204/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hari04204/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/hari04204/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0946-smallest-range-ii](https://github.com/hari04204/Leetcode/tree/master/0946-smallest-range-ii) |
@@ -636,6 +640,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hari04204/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/hari04204/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/hari04204/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1242-matrix-block-sum](https://github.com/hari04204/Leetcode/tree/master/1242-matrix-block-sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hari04204/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
