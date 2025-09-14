@@ -439,6 +439,7 @@ https://leetcode.com/hari04204/
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/hari04204/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hari04204/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/hari04204/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/hari04204/Leetcode/tree/master/0146-lru-cache) |
@@ -692,6 +693,7 @@ https://leetcode.com/hari04204/
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/hari04204/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/hari04204/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/hari04204/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/hari04204/Leetcode/tree/master/0234-palindrome-linked-list) |
