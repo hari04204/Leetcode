@@ -24,6 +24,7 @@ https://leetcode.com/hari04204/
 | [0055-jump-game](https://github.com/hari04204/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/hari04204/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/hari04204/Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/hari04204/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hari04204/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hari04204/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/hari04204/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -196,6 +197,7 @@ https://leetcode.com/hari04204/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/hari04204/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/hari04204/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/hari04204/Leetcode/tree/master/0231-power-of-two) |
 | [1940-maximum-xor-for-each-query](https://github.com/hari04204/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -389,6 +391,7 @@ https://leetcode.com/hari04204/
 | [0022-generate-parentheses](https://github.com/hari04204/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/hari04204/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/hari04204/Leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/hari04204/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hari04204/Leetcode/tree/master/0079-word-search) |
 | [1160-letter-tile-possibilities](https://github.com/hari04204/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/hari04204/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
