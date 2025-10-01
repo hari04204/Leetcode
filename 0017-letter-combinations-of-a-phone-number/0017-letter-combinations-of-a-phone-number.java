@@ -1,7 +1,9 @@
 class Solution {
     public List<String> letterCombinations(String digits) {
-        if(digits.length()<1) return new ArrayList<String>();
-        HashMap<Character,String> map = new HashMap<>();
+        if(digits.equals("")) return new ArrayList<>();
+        int n = digits.length();
+        List<String> ans = new ArrayList<>();
+        HashMap<Character, String> map = new HashMap<>();
         map.put('2',"abc");
         map.put('3',"def");
         map.put('4',"ghi");
@@ -10,22 +12,16 @@ class Solution {
         map.put('7',"pqrs");
         map.put('8',"tuv");
         map.put('9',"wxyz");
-        ArrayList<String> res = new ArrayList<>();
-        res = helper("",digits,map);
-        return res;
+        helper(0,map,ans,n,"",digits);
+        return ans;
     }
-    public ArrayList<String> helper(String p, String up,HashMap<Character, String> map){
-        if(up.isEmpty()){
-            ArrayList<String> list = new ArrayList<>();
-            list.add(p);
-            return list;
+    public void helper(int i, HashMap<Character, String> map, List<String> ans, int n, String s,String digits){
+        if(i==n){
+            ans.add(s);
+            return;
         }
-        ArrayList<String> list = new ArrayList<>();
-        String s = map.get(up.charAt(0));
-        for(char c: s.toCharArray()){
-            list.addAll(helper(p+c,up.substring(1),map));
+        for(char c: map.get(digits.charAt(i)).toCharArray()){
+            helper(i+1,map,ans,n,s+c,digits);
         }
-        return list;
     }
-    
 }
