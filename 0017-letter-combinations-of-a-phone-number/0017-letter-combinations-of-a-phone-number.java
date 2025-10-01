@@ -12,16 +12,17 @@ class Solution {
         map.put('7',"pqrs");
         map.put('8',"tuv");
         map.put('9',"wxyz");
-        helper(0,map,ans,n,"",digits);
+        helper(0,map,ans,n,new StringBuilder(""),digits);
         return ans;
     }
-    public void helper(int i, HashMap<Character, String> map, List<String> ans, int n, String s,String digits){
+    public void helper(int i, HashMap<Character, String> map, List<String> ans, int n, StringBuilder s,String digits){
         if(i==n){
-            ans.add(s);
+            ans.add(s.toString());
             return;
         }
         for(char c: map.get(digits.charAt(i)).toCharArray()){
-            helper(i+1,map,ans,n,s+c,digits);
+            helper(i+1,map,ans,n,s.append(c),digits);
+            s.deleteCharAt(s.length()-1);
         }
     }
 }
