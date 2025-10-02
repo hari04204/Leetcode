@@ -19,6 +19,7 @@ https://leetcode.com/hari04204/
 | [0045-jump-game-ii](https://github.com/hari04204/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/hari04204/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/hari04204/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/hari04204/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/hari04204/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/hari04204/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/hari04204/Leetcode/tree/master/0055-jump-game) |
@@ -392,6 +393,7 @@ https://leetcode.com/hari04204/
 | [0022-generate-parentheses](https://github.com/hari04204/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/hari04204/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/hari04204/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/hari04204/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hari04204/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hari04204/Leetcode/tree/master/0079-word-search) |
 | [1160-letter-tile-possibilities](https://github.com/hari04204/Leetcode/tree/master/1160-letter-tile-possibilities) |
