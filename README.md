@@ -317,6 +317,7 @@ https://leetcode.com/hari04204/
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hari04204/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/hari04204/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/hari04204/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/hari04204/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hari04204/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/hari04204/Leetcode/tree/master/0020-valid-parentheses) |
@@ -402,6 +403,7 @@ https://leetcode.com/hari04204/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hari04204/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/hari04204/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/hari04204/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hari04204/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hari04204/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -703,6 +705,7 @@ https://leetcode.com/hari04204/
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/hari04204/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/hari04204/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/hari04204/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/hari04204/Leetcode/tree/master/0231-power-of-two) |
