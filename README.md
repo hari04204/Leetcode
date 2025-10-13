@@ -78,6 +78,7 @@ https://leetcode.com/hari04204/
 | [1242-matrix-block-sum](https://github.com/hari04204/Leetcode/tree/master/1242-matrix-block-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/hari04204/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1342-queens-that-can-attack-the-king](https://github.com/hari04204/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/hari04204/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hari04204/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hari04204/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hari04204/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -160,6 +161,7 @@ https://leetcode.com/hari04204/
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hari04204/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/hari04204/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/hari04204/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/hari04204/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hari04204/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hari04204/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hari04204/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -224,6 +226,7 @@ https://leetcode.com/hari04204/
 | [0946-smallest-range-ii](https://github.com/hari04204/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/hari04204/Leetcode/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/hari04204/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/hari04204/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hari04204/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/hari04204/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hari04204/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -346,6 +349,7 @@ https://leetcode.com/hari04204/
 | [1297-maximum-number-of-balloons](https://github.com/hari04204/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hari04204/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/hari04204/Leetcode/tree/master/1304-longest-happy-string) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/hari04204/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/hari04204/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hari04204/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/hari04204/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
