@@ -130,6 +130,7 @@ https://leetcode.com/hari04204/
 | [3321-type-of-triangle](https://github.com/hari04204/Leetcode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hari04204/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3430-count-days-without-meetings](https://github.com/hari04204/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hari04204/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/hari04204/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3790-fruits-into-baskets-ii](https://github.com/hari04204/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -178,6 +179,7 @@ https://leetcode.com/hari04204/
 | [2689-rearranging-fruits](https://github.com/hari04204/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hari04204/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/hari04204/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hari04204/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -466,6 +468,7 @@ https://leetcode.com/hari04204/
 | [0160-intersection-of-two-linked-lists](https://github.com/hari04204/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/hari04204/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0838-design-linked-list](https://github.com/hari04204/Leetcode/tree/master/0838-design-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hari04204/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
 | ------- |
