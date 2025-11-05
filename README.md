@@ -374,6 +374,7 @@ https://leetcode.com/hari04204/
 | [0128-longest-consecutive-sequence](https://github.com/hari04204/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/hari04204/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/hari04204/Leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/hari04204/Leetcode/tree/master/0684-redundant-connection) |
 | [1073-number-of-enclaves](https://github.com/hari04204/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/hari04204/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Stack
@@ -518,6 +519,7 @@ https://leetcode.com/hari04204/
 | [0207-course-schedule](https://github.com/hari04204/Leetcode/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hari04204/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/hari04204/Leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/hari04204/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/hari04204/Leetcode/tree/master/0733-flood-fill) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/hari04204/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0871-keys-and-rooms](https://github.com/hari04204/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -649,6 +651,7 @@ https://leetcode.com/hari04204/
 | [0279-perfect-squares](https://github.com/hari04204/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/hari04204/Leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/hari04204/Leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/hari04204/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/hari04204/Leetcode/tree/master/0733-flood-fill) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/hari04204/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0871-keys-and-rooms](https://github.com/hari04204/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -700,6 +703,7 @@ https://leetcode.com/hari04204/
 | ------- |
 | [0207-course-schedule](https://github.com/hari04204/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/hari04204/Leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/hari04204/Leetcode/tree/master/0684-redundant-connection) |
 | [0871-keys-and-rooms](https://github.com/hari04204/Leetcode/tree/master/0871-keys-and-rooms) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hari04204/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/hari04204/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
